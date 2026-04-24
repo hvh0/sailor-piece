@@ -1,3 +1,3 @@
 SCRIPT_KEY = "Sea2NewUpdateFree"
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/4fec2c3398e79c58ae1921f2cc95db353606d4e423793ab1e664c67579d74ad4/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/b6e0baec2a6db931e17dfd618d545e5907d04caf5ad57c1f39be3331ecccc47d/download"))()
